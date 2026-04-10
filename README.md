@@ -60,7 +60,7 @@ Each file is intentionally minimal, focused, and designed to demonstrate seniorâ
 
 ---
 
-## ðŸ§  Why This Toolkit Exists
+## Why This Toolkit Exists
 
 PostgreSQL performance tuning is a core skill for Data Engineers, DBAs, and Platform Engineers.  
 This toolkit demonstrates expertise in:
